@@ -1,0 +1,10 @@
+"""Download Datasets"""
+print("Dataset Download Script")
+print("="*50)
+print("\nDatasets to download:")
+print("1. NSL-KDD: kaggle datasets download -d hassan06/nslkdd")
+print("2. UNSW-NB15: kaggle datasets download -d mrwellsdavid/unsw-nb15")
+print("\nSetup:")
+print("1. Get Kaggle API key from kaggle.com/settings")
+print("2. Place in ~/.kaggle/kaggle.json")
+print("3. Run: chmod 600 ~/.kaggle/kaggle.json")
