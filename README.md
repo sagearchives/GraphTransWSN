@@ -153,8 +153,4 @@ MIT License
 
 ---
 
-## Contact
 
-GitHub: github.com/yourusername/GraphTransWSN
-
-Email: your.email@university.edu
