@@ -55,7 +55,7 @@ GraphTransWSN combines spatial topology awareness (GAT) with temporal pattern re
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/GraphTransWSN.git
+git clone https://github.com/sagearchives/GraphTransWSN
 cd GraphTransWSN
 pip install -r requirements.txt
 pip install -e .
